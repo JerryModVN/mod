@@ -6,20 +6,20 @@ body {
   /* xóa gạch chân */
   /* text-decoration: none; */
   /* màu nền */
-  background-color: rgb(226, 255, 192);
+  background-color: rgb(15, 223, 223);
   /* bo viền */
   border-radius: 999px;
   /* màu chữ */
   color: rgb(0, 0, 0);
   /* chiều rộng */
-  width: 77px;
+  /* width: 77px; */
   /* chiều rộng 4 phía */
   padding: 8px 16px;
   /* căn giữa */
-  text-align: center;
+  /* text-align: center; */
   /* sử dụng các thuộc tính */
-  display: inline-block;
-  margin-top: 30px;
+  /* display: inline-block; */
+  /* margin-top: 30px; */
 }
 /* lớp giả hover, tác động khi di chuột qua phần tử */
 .a1:hover {
